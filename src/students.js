@@ -9,7 +9,6 @@ const STUDENTS_DATA = Object.freeze([
     ["Антон Вадимович", "antonfcss"],
     ["Илья Родионович", "GansA11es"],
     ["Пётр Валерьевич", "PetrGrebnev"],
-    ["Виктория Максимовна", "fuchsjagd"],
     ["Степан Ярмошин", "KrasavaStep"],
     ["Мария Павловна", null]
 ]);
